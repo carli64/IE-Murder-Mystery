@@ -26181,7 +26181,7 @@ SCENARIOS = [
         "location_clues": {
             "scitech": [
                 "A laptop on the floor near the main desk — the screen is cracked. It was not dropped. It was swung.",
-                "Professor I draft paper open on the computer monitor: 'Advanced Neural Systems — co-authored by Professor I.' The listed co-author says the ideas are not his.",
+                "Professor I's draft paper open on the computer monitor: 'Advanced Neural Systems — co-authored by Professor I.' The listed co-author says the ideas are not his.",
             ],
             "piano": [
                 "The Piano Lounge sign-in sheet confirms Hector was there from 6pm. The cleaner saw his guitar case by the door all night.",
@@ -26382,7 +26382,7 @@ SCENARIOS = [
         "location_clues": {
             "scitech": [
                 "An Owala Bottle is found under the desk in Professor I's office — dented. It was not there yesterday according to a colleague.",
-                "Professor I email browser is open. The sent folder shows an email to the immigration office sent at 8pm. The email has been deleted from sent — but the draft copy remains.",
+                "Professor I's email browser is open. The sent folder shows an email to the immigration office sent at 8pm. The email has been deleted from sent — but the draft copy remains.",
             ],
             "fiveguys": [
                 "Staff confirm the same person was in the corner booth from 7:30pm onwards. Aquarius Can on the table.",
@@ -26473,7 +26473,7 @@ SCENARIOS = [
             ],
         },
         "facts": [
-            "Professor I calendar shows a private meeting scheduled at the Piano Lounge for 9pm the night of the murder — no name listed, just initials.",
+            "Professor I's calendar shows a private meeting scheduled at the Piano Lounge for 9pm the night of the murder — no name listed, just initials.",
             "Forensics confirmed the murder weapon was NOT a Guitar.",
         ],
     },
@@ -26594,7 +26594,7 @@ SCENARIOS = [
         "location_clues": {
             "cafeteria": [
                 "A dented protein shake bottle is on the floor near the serving counter — the kind you buy at a gym, not the cafeteria.",
-                "Professor I dinner tray is on the table, food half-eaten. His phone is face-down next to it — the screen has a crack across the corner.",
+                "Professor I's dinner tray is on the table, food half-eaten. His phone is face-down next to it — the screen has a crack across the corner.",
             ],
             "fiveguys": [
                 "Staff confirm the same person was in the corner booth from 7pm until closing. One Aquarius Can. Did not leave.",
